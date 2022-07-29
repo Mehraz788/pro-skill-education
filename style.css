@@ -1,0 +1,14 @@
+.carousel-inner,
+.carousel-item,
+.carousel-item.active {
+    height: 100vh;
+}
+
+.container img {
+    filter: brightness(50%);
+}
+
+.carousel-caption {
+    justify-content: center;
+    align-items: center;
+}
